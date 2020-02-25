@@ -12,8 +12,8 @@ You will also see any lint errors in the console.
 
 Using react library:
 
-axios 
-react-bootstrap
+axios.
+react-bootstrap.
 react-dom
 react-loader-spinner
 react-redux
