@@ -13,7 +13,7 @@ You will also see any lint errors in the console.
 Using react library:
 
 axios <br />
-react-bootstrap br />
+react-bootstrap <br />
 react-dom <br />
 react-loader-spinner <br />
 react-redux <br />
