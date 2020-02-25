@@ -12,14 +12,14 @@ You will also see any lint errors in the console.
 
 Using react library:
 
-axios.
-react-bootstrap.
-react-dom
-react-loader-spinner
-react-redux
-react-router-config
-react-router-dom
-react-scripts
-redux
+axios <br />
+react-bootstrap br />
+react-dom <br />
+react-loader-spinner <br />
+react-redux <br />
+react-router-config <br />
+react-router-dom<br />
+react-scripts <br />
+redux <br />
 redux-thunk
 
